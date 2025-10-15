@@ -1,0 +1,10 @@
+serve:
+  knee_bend_deg:
+    good: [25, 45]
+    hint: "Aim for deeper sit before leg drive."
+  x_factor_deg:
+    good: [25, 45]
+    hint: "Load hips then shoulders—separation matters."
+  contact_height_rel:
+    good: [0.15, 0.30]
+    hint: "Taller contact via better toss + leg drive."

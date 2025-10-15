@@ -1,0 +1,22 @@
+# venv & Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# data & outputs
+data/raw/
+data/interim/
+reports/figures/
+reports/sessions/
+*.mp4
+*.avi
+*.mov
+*.csv
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
