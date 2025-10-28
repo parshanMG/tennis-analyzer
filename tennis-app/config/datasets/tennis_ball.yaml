@@ -1,0 +1,9 @@
+# YOLOv8 dataset config for tennis ball detection
+# Paths are relative to this file via `path`.
+path: ../../data/ball
+train: images/train
+val: images/val
+test: images/test  # optional
+
+names:
+  0: ball

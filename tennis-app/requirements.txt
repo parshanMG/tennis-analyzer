@@ -7,3 +7,12 @@ scipy
 pyyaml
 streamlit
 ipykernel
+ultralytics
+Pillow
+seaborn
+tqdm
+
+#if you want CPU-only build uncomment below lines, otherwise install requirements-gpu.txt for GPU support
+
+#torch
+#torchvision
